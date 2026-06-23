@@ -9,7 +9,7 @@ I enjoy creating applications, learning new technologies, and solving problems t
 ### 🌐 Website I Have Made
 A solo built website made from using ai but also my previous knowledge and expertise.
 
-🔗 [Visit my website](calgaryhvacexpress.ca)
+🔗 [Visit my website]([calgaryhvacexpress.ca](https://calgaryhvacexpress.ca))
 
 ### 💻 Software Projects
 A collection of my programming projects, experiments, and coursework focused on improving my skills in software development.
@@ -37,6 +37,6 @@ A collection of my programming projects, experiments, and coursework focused on 
 ## 📫 Connect With Me
 
 - GitHub: [@aj0khi](https://github.com/aj0khi)
-- LinkedIn: [My Website]((https://www.linkedin.com/in/ajmal-khidri-3a4b62362))
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ajmal-khidri-3a4b62362)
 
 ⚡ Fun fact: I enjoy building projects that combine creativity, problem-solving, and technology.
