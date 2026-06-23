@@ -37,6 +37,6 @@ A collection of my programming projects, experiments, and coursework focused on 
 ## 📫 Connect With Me
 
 - GitHub: [@aj0khi](https://github.com/aj0khi)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ajmal-khidri-3a4b62362)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ajmal-khidri/)
 
 ⚡ Fun fact: I enjoy building projects that combine creativity, problem-solving, and technology.
