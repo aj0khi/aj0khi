@@ -9,7 +9,7 @@ I enjoy creating applications, learning new technologies, and solving problems t
 ### 🌐 Website I Have Made
 A solo built website made from using ai but also my previous knowledge and expertise.
 
-🔗 [Visit my website]([calgaryhvacexpress.ca](https://calgaryhvacexpress.ca))
+🔗 [Visit my website](https://calgaryhvacexpress.ca)
 
 ### 💻 Software Projects
 A collection of my programming projects, experiments, and coursework focused on improving my skills in software development.
