@@ -6,7 +6,7 @@
 
 **Computer Science student at the University of Calgary building toward a career in robotics, software, and intelligent hardware.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajmal--portfolio-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmal-portfolio.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajmal--portfolio-F7A41D?style=for-the-badge&logo=astro&logoColor=white)]((https://ajmalkhidri.com/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal%20Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
 
 </div>
