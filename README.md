@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Engineering+Student;Robotics+%26+Software+Builder;Founder+%26+Full-Stack+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
 
-**Computer Science student at the University of Calgary building toward a career in robotics, software, and intelligent hardware.**
+**Computer Science student at the University of Calgary · Technical Lead at HVAC Express · Software Team Member at WayBionic Robotics · Junior Executive at The Cybersecurity Club at UCalgary**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajmal--portfolio-F7A41D?style=for-the-badge&logo=astro&logoColor=white)]((https://ajmalkhidri.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajmalkhidri.com-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal%20Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
 
 </div>
@@ -15,9 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at the **University of Calgary**, working toward an engineering and robotics-focused path
-- 🏢 Founder of **[HVAC Express](https://calgaryhvacexpress.ca)** and **Chinook Clean** — building businesses as well as the software and web infrastructure behind them
-- 🤖 Software team member at **[WayBionic Robotics](https://github.com/Waybionic/waybionic_ground_station)**, helping build a ROS2 ground station for remote operation of a surgical robotic arm
+- 🎓 **Computer Science student** at the **University of Calgary**, building toward a career in robotics, software, and intelligent hardware
+- 🏢 **Technical Lead** at **[HVAC Express](https://calgaryhvacexpress.ca)**, supporting operations while building and maintaining the company’s web and technical infrastructure
+- 🤖 **Software Team Member** at **[WayBionic Robotics](https://github.com/Waybionic/waybionic_ground_station)**, helping build a ROS2 ground station for remote operation of a surgical robotic arm
+- 🛠️ **Engineer Intern** at **SYNK**, contributing to brand and technical initiatives for AI-focused products
+- 🔐 **Junior Executive** at **The Cybersecurity Club at UCalgary**, supporting educational programming and hands-on learning opportunities
+- 🚿 Built **Chinook Clean** from the ground up, combining business operations with technical execution
 - 🧠 Interested in robotics software, embedded systems, simulation, AI agents, and full-stack product development
 - 🚀 I like owning projects end-to-end: architecture, implementation, deployment, documentation, and the user experience
 - 🌱 Always shipping something — a client site, a portfolio, a hackathon prototype, coursework, or a robotics side project
@@ -29,7 +32,7 @@
 | Project | What it is | Built with |
 |---|---|---|
 | 🛰️ **[Inside the Game](https://github.com/aj0khi/soccer-hackathon-project)** | Azure-ready football intelligence workspace for turning synthetic match events into grounded insights, analytics, explainable narratives, and personalized fan experiences | `Next.js` `React` `TypeScript` `Tailwind CSS` `Azure architecture` |
-| 🖥️ **[Personal Portfolio](https://github.com/aj0khi/ajmal-portfolio)** | A retro desktop-inspired portfolio and build log featuring project writeups, resume downloads, WayBionic diagrams, and an in-app browser experience | `Astro` `TypeScript` `HTML/CSS` `PHP` |
+| 🖥️ **[Personal Portfolio](https://github.com/aj0khi/ajmal-portfolio)** | A retro desktop-inspired portfolio and build log at **[ajmalkhidri.com](https://ajmalkhidri.com/)** featuring project writeups, resume downloads, WayBionic diagrams, and an in-app browser experience | `Astro` `TypeScript` `HTML/CSS` `PHP` |
 | 🤖 **[WayBionic ROS2 Ground Station](https://github.com/Waybionic/waybionic_ground_station)** | Ground station for remote visibility and control of a surgical robotic arm, including telemetry, camera feeds, safety monitoring, operator controls, and RViz-based engineering diagnostics | `ROS2` `C++` `Python` `RViz` `URDF` `Simulation` |
 | 🛰️ **Autonomous Obstacle-Avoiding Rover** | Wireless rover with independent motor control, sonar distance sensing, configurable acceleration, and closed-loop obstacle response | `Java` `Phidgets SDK` `TCP/IP` |
 | 🌡️ **[HVAC Express](https://calgaryhvacexpress.ca)** | Built and maintain the live website and technical infrastructure for a Calgary heating and cooling company, including SEO, security remediation, hosting, and a token-based design system | `WordPress` `CSS` `SEO` `Hostinger` |
@@ -92,6 +95,8 @@ Working toward a career in robotics, one project at a time:
 - 📘 **Introduction to Cybersecurity** — Cisco, July 2026
 - 🤖 **Introduction to Generative AI** — Google, July 2026
 - 🧠 **Introduction to Large Language Models** — Google, July 2026
+- 🛡️ **ISO/IEC 27001 Information Security Associate™** — SkillFront
+- 🗺️ **Get started with Google Maps Platform (Web)** — Google for Developers
 - 👥 **Learning Peer** at Mount Royal University — supported students studying Math 30-1/31
 - ⚙️ **Operations Manager** for a TED-Ed club — managed the club website and technical responsibilities while helping plan the in-person event
 - 🤝 Active volunteer with **Ismaili Volunteers**
@@ -112,7 +117,7 @@ Working toward a career in robotics, one project at a time:
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://ajmal-portfolio.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com/)
 [![Website](https://img.shields.io/badge/HVAC_Express-F7A41D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://calgaryhvacexpress.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aj0khi)
 
