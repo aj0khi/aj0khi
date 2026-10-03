@@ -2,7 +2,12 @@
 
 # Hi there, I'm Aj 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Engineering+Student;Robotics+Enthusiast+%F0%9F%A4%96;Founder+%40+HVAC+Express+%26+Chinook+Clean;Building+things+that+actually+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Engineering+Student;Robotics+%26+Software+Builder;Founder+%26+Full-Stack+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
+
+**Computer Science student at the University of Calgary building toward a career in robotics, software, and intelligent hardware.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajmal--portfolio-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmal-portfolio.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal%20Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
 
 </div>
 
@@ -10,11 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Engineering student, currently transitioning from **Computer Science @ University of Calgary** into **Engineering @ University of Alberta**, working toward transferring back into UofC Engineering
-- 🏢 Founder of **[HVAC Express](https://calgaryhvacexpress.ca)**, a Calgary heating & cooling company, and **Chinook Clean**, a power washing business
-- 🤖 Member of **WayBionic Robotics** — a UCalgary club building a surgical arm for remote teleoperation over ROS2
-- 🎯 Long-term goal: landing at a top-tier robotics company (think Boston Dynamics) and building real hardware that moves
-- 🌱 Always shipping something — code, a client site, or a robotics side project
+- 🎓 Computer Science student at the **University of Calgary**, working toward an engineering and robotics-focused path
+- 🏢 Founder of **[HVAC Express](https://calgaryhvacexpress.ca)** and **Chinook Clean** — building businesses as well as the software and web infrastructure behind them
+- 🤖 Software team member at **[WayBionic Robotics](https://github.com/Waybionic/waybionic_ground_station)**, helping build a ROS2 ground station for remote operation of a surgical robotic arm
+- 🧠 Interested in robotics software, embedded systems, simulation, AI agents, and full-stack product development
+- 🚀 I like owning projects end-to-end: architecture, implementation, deployment, documentation, and the user experience
+- 🌱 Always shipping something — a client site, a portfolio, a hackathon prototype, coursework, or a robotics side project
 
 ---
 
@@ -22,10 +28,13 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🌡️ **[HVAC Express](https://calgaryhvacexpress.ca)** | Full rebuild of my own HVAC company's site — custom WordPress theme, token-based design system, and a full SEO/growth strategy | `WordPress` `PHP` `CSS` `SEO` |
-| 🧼 **Chinook Clean** | Power washing business built from the ground up — website plus a full brand kit (business cards, door hangers, Instagram templates) and business plan | `HTML/CSS` `Branding` |
-| 🤖 **Local AI Coding Agent** | An autonomous coding agent built in n8n — router → planner → human approval → implementation → test → review, running on local Ollama models | `n8n` `Ollama` `LLMs` |
-| 🛰️ **Rover Project** | A rover control project using the Phidgets SDK over TCP/IP, built during coursework | `Java` `Phidgets` `TCP/IP` |
+| 🛰️ **[Inside the Game](https://github.com/aj0khi/soccer-hackathon-project)** | Azure-ready football intelligence workspace for turning synthetic match events into grounded insights, analytics, explainable narratives, and personalized fan experiences | `Next.js` `React` `TypeScript` `Tailwind CSS` `Azure architecture` |
+| 🖥️ **[Personal Portfolio](https://github.com/aj0khi/ajmal-portfolio)** | A retro desktop-inspired portfolio and build log featuring project writeups, resume downloads, WayBionic diagrams, and an in-app browser experience | `Astro` `TypeScript` `HTML/CSS` `PHP` |
+| 🤖 **[WayBionic ROS2 Ground Station](https://github.com/Waybionic/waybionic_ground_station)** | Ground station for remote visibility and control of a surgical robotic arm, including telemetry, camera feeds, safety monitoring, operator controls, and RViz-based engineering diagnostics | `ROS2` `C++` `Python` `RViz` `URDF` `Simulation` |
+| 🛰️ **Autonomous Obstacle-Avoiding Rover** | Wireless rover with independent motor control, sonar distance sensing, configurable acceleration, and closed-loop obstacle response | `Java` `Phidgets SDK` `TCP/IP` |
+| 🌡️ **[HVAC Express](https://calgaryhvacexpress.ca)** | Built and maintain the live website and technical infrastructure for a Calgary heating and cooling company, including SEO, security remediation, hosting, and a token-based design system | `WordPress` `CSS` `SEO` `Hostinger` |
+| 🧼 **Chinook Clean** | Power washing business built from the ground up with a website, brand kit, marketing materials, and business plan | `HTML/CSS` `Branding` `Business Development` |
+| 🤖 **Local AI Coding Agent** | Autonomous coding workflow in n8n with routing, planning, human approval, implementation, testing, and review using local Ollama models | `n8n` `Ollama` `LLMs` `Automation` |
 
 ---
 
@@ -35,14 +44,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
@@ -50,21 +66,35 @@
 
 Working toward a career in robotics, one project at a time:
 
-- [x] 96 Java programs across CS20/CS30 — data structures from scratch, an OOP banking system, Swing GUIs
-- [x] Rover control project — Phidgets SDK over TCP/IP
+- [x] 96 Java programs across CS20/CS30 — data structures from scratch, an OOP banking system, and Swing GUIs
+- [x] Autonomous rover control project — Phidgets SDK, sonar sensing, motor control, and TCP/IP
+- [x] WayBionic ROS2 ground-station work — movement-test panels, diagnostics, simulated joint-state publishing, and RViz monitoring
 - [ ] Hugging Face LeRobot SO-101 arm — imitation learning
-- [ ] NVIDIA Isaac Lab — RL-based locomotion
+- [ ] NVIDIA Isaac Lab — reinforcement-learning locomotion
 - [ ] ROS2 Nav2 / SLAM
-- [ ] SmolVLA fine-tuning (stretch goal)
+- [ ] SmolVLA fine-tuning — stretch goal
 
 ---
 
 ## 🌱 Currently Learning
 
-- Full-stack development & software engineering fundamentals
-- ROS2, robot navigation, and simulation (NVIDIA Isaac Lab)
-- Building AI agent pipelines with local LLMs
-- Prepping for co-op/internship opportunities in software development & embedded systems
+- Full-stack development with **Astro, Next.js, React, TypeScript, and Tailwind CSS**
+- ROS2, RViz, robot simulation, telemetry, and safety-oriented operator interfaces
+- Provider-neutral event pipelines and explainable analytics for AI-powered applications
+- Python programming and software engineering fundamentals through CPSC coursework
+- Local LLM workflows and multi-stage AI coding agents
+- Preparing for co-op and internship opportunities in software development, robotics, and embedded systems
+
+---
+
+## 🏅 Certifications & Community
+
+- 📘 **Introduction to Cybersecurity** — Cisco, July 2026
+- 🤖 **Introduction to Generative AI** — Google, July 2026
+- 🧠 **Introduction to Large Language Models** — Google, July 2026
+- 👥 **Learning Peer** at Mount Royal University — supported students studying Math 30-1/31
+- ⚙️ **Operations Manager** for a TED-Ed club — managed the club website and technical responsibilities while helping plan the in-person event
+- 🤝 Active volunteer with **Ismaili Volunteers**
 
 ---
 
@@ -82,6 +112,7 @@ Working toward a career in robotics, one project at a time:
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://ajmal-portfolio.pages.dev)
 [![Website](https://img.shields.io/badge/HVAC_Express-F7A41D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://calgaryhvacexpress.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aj0khi)
 
