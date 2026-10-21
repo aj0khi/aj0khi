@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Computer+Science+%2B+Engineering+Student;Robotics+%26+Software+Builder;Founder+%26+Full-Stack+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
 
-**Computer Science student at the University of Calgary · Technical Lead at HVAC Express · Software Team Member at WayBionic Robotics · Junior Executive at The Cybersecurity Club at UCalgary**
+**Computer Science student at the University of Calgary · Technical Lead at HVAC Express · Software Team Member at WayBionic Robotics & Schulich Space Rover · Junior Executive at The Cybersecurity Club at UCalgary**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajmalkhidri.com-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal%20Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
