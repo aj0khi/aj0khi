@@ -1,130 +1,197 @@
 <div align="center">
 
-# Hi there, I'm Aj 👋
+<a href="https://ajmalkhidri.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=F7A41D&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Ajmal+%28Aj%29+Khidri;Computer+Science+%40+UCalgary;Robotics+%2B+Software+%2B+Real-World+Systems;Always+building+something+new" alt="Hi, I'm Ajmal: computer science, robotics, software, and building things" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Robotics+%26+Software+Builder;Founder+%26+Embedded-Systems+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
+### Computer Science @ University of Calgary · Robotics Software · Builder
 
-**Computer Science student at the University of Calgary · Technical Lead at HVAC Express · Software Team Member at WayBionic Robotics & Schulich Space Rover · Junior Executive at The Cybersecurity Club at UCalgary**
+I like building systems that move, explain themselves, and make it into the real world.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajmalkhidri.com-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal%20Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-ajmalkhidri.com-F7A41D?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Ajmal_Khidri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
+[![Email](https://img.shields.io/badge/Email-me-252525?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khidri.ajmal@gmail.com)
+
+<br />
+
+<a href="https://github.com/aj0khi?tab=repositories">
+  <img src="./assets/galaxy.svg" alt="Ajmal's live repository galaxy: public repositories arranged on language-colored spiral arms" width="100%" />
+</a>
+
+<sub>Pick a project in the galaxy to explore its repository ↓</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-the-toolbox">Toolbox</a> ·
+  <a href="#-what-im-learning">Learning</a> ·
+  <a href="#-github-at-a-glance">GitHub stats</a> ·
+  <a href="#-say-hello">Contact</a>
+</p>
 
-- 🎓 **Computer Science student** at the **University of Calgary**, building toward a career in robotics, software, and intelligent hardware
-- 🏢 **Technical Lead** at **[HVAC Express](https://calgaryhvacexpress.ca)**, supporting operations while building and maintaining the company’s web and technical infrastructure
-- 🤖 **Software Team Member** at **[WayBionic Robotics](https://github.com/Waybionic/waybionic_ground_station)**, helping build a ROS2 ground station for remote operation of a surgical robotic arm
-- 🛠️ **Engineer Intern** at **SYNK**, contributing to brand and technical initiatives for AI-focused products
-- 🔐 **Junior Executive** at **The Cybersecurity Club at UCalgary**, supporting educational programming and hands-on learning opportunities
-- 🚿 Built **Chinook Clean** from the ground up, combining business operations with technical execution
-- 🧠 Interested in robotics software, embedded systems, simulation, AI agents, and full-stack product development
-- 🚀 I like owning projects end-to-end: architecture, implementation, deployment, documentation, and the user experience
-- 🌱 Always shipping something — a client site, a portfolio, a hackathon prototype, coursework, or a robotics side project
+## 👋 A little about me
 
----
+- 🎓 Computer Science student at the **University of Calgary** in Calgary, Alberta.
+- 🤖 Software team member with **WayBionic Robotics** and the **Schulich Space Rover Team**.
+- 🧰 Technical Lead at **[HVAC Express](https://calgaryhvacexpress.ca)**, where I help maintain the live site and technical infrastructure.
+- 🛠️ Engineer Intern at **SYNK**, contributing to brand and technical initiatives for AI-focused products.
+- 🔐 Junior Executive, Academic with the **UCalgary Cybersecurity Club**.
+- 🎮 I enjoy mixing software with the physical world—from AirPods as a game controller to ROS 2 diagnostics for robots.
+- 🚀 I like taking a project from an idea through implementation, testing, documentation, and a working demo.
 
-## 🚀 Featured Work
+## 🌌 The repo galaxy
 
-| Project | What it is | Built with |
+This galaxy maps the projects I keep coming back to: robotics and controls, creative interfaces, local AI experiments, and useful tools. The constellations are clickable in the project list below, too.
+
+<details>
+<summary>🛰️ Robotics, controls &amp; embedded systems</summary>
+
+- **[WayBionic ROS 2 Ground Station](https://github.com/Waybionic/waybionic_ground_station)** — Student research platform for remote visibility and control of a surgical robot arm. My work includes ROS 2 diagnostics, motion-test tooling, simulated joint-state workflows, and RViz integration.
+- **[Autonomous Obstacle-Avoiding Rover](https://github.com/aj0khi/CS30/tree/main/RoverProejct)** — Java and Phidgets project exploring sonar-based obstacle response, independent motor control, and movement logic.
+- **[Schulich Space Rover Team](https://schulich.ucalgary.ca/)** — Collaborating on ROS 2 controls, teleoperation, sensing, and system integration.
+
+</details>
+
+<details>
+<summary>🎮 Interactive software &amp; hackathons</summary>
+
+- **[Aircade](https://github.com/aj0khi/aircade-mru-hacks)** — A motion-controlled arcade with five games. Uses AirPods head motion, a Swift/Core Motion sender, WebSockets, browser games, and a keyboard fallback.
+- **[Proofly — Hack the Change 2026](https://github.com/aj0khi/hack-the-change)** — A team-built prototype for turning community contributions into reviewed, tamper-evident skill evidence.
+- **[Personal portfolio](https://github.com/aj0khi/ajmal-portfolio)** — An Astro-powered desktop-inspired portfolio and build log, with interactive project experiences.
+
+</details>
+
+<details>
+<summary>🧠 AI, learning &amp; data projects</summary>
+
+- **[Teach to Game](https://github.com/aj0khi/teach-to-game)** — A local reinforcement-learning lab where a user defines a game goal and target score; includes self-contained Snake and runner environments.
+- **[Inside the Game](https://github.com/aj0khi/soccer-hackathon-project)** — An event-driven foundation for match analytics and explainable, evidence-grounded stories from synthetic football events.
+- **[Local AI coding workflow](https://ajmalkhidri.com)** — An experiment in local models, automation, human approval, implementation, and testing.
+
+</details>
+
+<details>
+<summary>💻 Coursework &amp; early experiments</summary>
+
+- **[CS30](https://github.com/aj0khi/CS30)** — Java coursework, including the rover project and object-oriented exercises.
+- **[CS20](https://github.com/aj0khi/CS20)** — Earlier Java coursework and programming exercises.
+- **[CPSC 219](https://github.com/aj0khi/cpsc219)** — Python coursework and practice programs.
+
+</details>
+
+## 🚀 Featured projects
+
+| Project | What I explored | Stack |
 |---|---|---|
-| 🛰️ **[Inside the Game](https://github.com/aj0khi/soccer-hackathon-project)** | Azure-ready football intelligence workspace for turning synthetic match events into grounded insights, analytics, explainable narratives, and personalized fan experiences | `Next.js` `React` `TypeScript` `Tailwind CSS` `Azure architecture` |
-| 🖥️ **[Personal Portfolio](https://github.com/aj0khi/ajmal-portfolio)** | A retro desktop-inspired portfolio and build log at **[ajmalkhidri.com](https://ajmalkhidri.com/)** featuring project writeups, resume downloads, WayBionic diagrams, and an in-app browser experience | `Astro` `TypeScript` `HTML/CSS` `PHP` |
-| 🤖 **[WayBionic ROS2 Ground Station](https://github.com/Waybionic/waybionic_ground_station)** | Ground station for remote visibility and control of a surgical robotic arm, including telemetry, camera feeds, safety monitoring, operator controls, and RViz-based engineering diagnostics | `ROS2` `C++` `Python` `RViz` `URDF` `Simulation` |
-| 🛰️ **Autonomous Obstacle-Avoiding Rover** | Wireless rover with independent motor control, sonar distance sensing, configurable acceleration, and closed-loop obstacle response | `Java` `Phidgets SDK` `TCP/IP` |
-| 🌡️ **[HVAC Express](https://calgaryhvacexpress.ca)** | Built and maintain the live website and technical infrastructure for a Calgary heating and cooling company, including SEO, security remediation, hosting, and a token-based design system | `WordPress` `CSS` `SEO` `Hostinger` |
-| 🧼 **Chinook Clean** | Power washing business built from the ground up with a website, brand kit, marketing materials, and business plan | `HTML/CSS` `Branding` `Business Development` |
-| 🤖 **Local AI Coding Agent** | Autonomous coding workflow in n8n with routing, planning, human approval, implementation, testing, and review using local Ollama models | `n8n` `Ollama` `LLMs` `Automation` |
+| [**WayBionic Ground Station** ↗](https://github.com/Waybionic/waybionic_ground_station) | ROS 2 tools, simulation, motion testing, and robot diagnostics | ROS 2, C++, Python, RViz |
+| [**Aircade** ↗](https://github.com/aj0khi/aircade-mru-hacks) | AirPods head motion as a controller for a five-game arcade | Swift, Core Motion, WebSockets, JavaScript |
+| [**Proofly** ↗](https://github.com/aj0khi/hack-the-change) | A hackathon prototype for community work and verifiable skill evidence | Node.js, Express, SQLite |
+| [**Teach to Game** ↗](https://github.com/aj0khi/teach-to-game) | A local, goal-driven reinforcement-learning practice lab | Python |
+| [**Inside the Game** ↗](https://github.com/aj0khi/soccer-hackathon-project) | Explainable match insights from synthetic football events | TypeScript, Next.js, React |
+| [**AjmalOS portfolio** ↗](https://github.com/aj0khi/ajmal-portfolio) | An interactive portfolio, project archive, and Three.js explorer | Astro, TypeScript, Three.js |
+| [**Obstacle-avoiding rover** ↗](https://github.com/aj0khi/CS30/tree/main/RoverProejct) | Sonar sensing, motor control, and obstacle response | Java, Phidgets |
 
----
+<details>
+<summary>🧪 More things I've built and explored</summary>
 
-## 🛠️ Technologies I Work With
+- **HVAC Express:** Production website and technical infrastructure for a Calgary heating and cooling company — [visit the site](https://calgaryhvacexpress.ca).
+- **Chinook Clean:** A power-washing business I started and operate, spanning customer work and field operations.
+- **Robot evidence recorder:** A Python evidence pipeline with a local vault, append-only ledger, and owner portal; exploring a Raspberry Pi prototype.
+- **Personal robotics roadmap:** Simulation-first experiments toward imitation learning, reinforcement learning, and navigation.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+</details>
 
----
+## 🧰 The toolbox
 
-## 🤖 Robotics Roadmap
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,javascript,swift,html,css,react,nextjs,astro,nodejs,tailwind,docker,linux,git,github,threejs,php,vscode,arduino,raspberrypi,apple&perline=8" alt="Python, Java, C, C++, TypeScript, JavaScript, Swift, HTML, CSS, React, Next.js, Astro, Node.js, Tailwind, Docker, Linux, Git, GitHub, Three.js, PHP, VS Code, Arduino, Raspberry Pi, and Apple Core Motion" />
+</p>
 
-Working toward a career in robotics, one project at a time:
+<p align="center">
+  <img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="RViz" src="https://img.shields.io/badge/RViz-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+  <img alt="Phidgets" src="https://img.shields.io/badge/Phidgets-555555?style=flat-square" />
+</p>
 
-- [x] 96 Java programs across CS20/CS30 — data structures from scratch, an OOP banking system, and Swing GUIs
-- [x] Autonomous rover control project — Phidgets SDK, sonar sensing, motor control, and TCP/IP
-- [x] WayBionic ROS2 ground-station work — movement-test panels, diagnostics, simulated joint-state publishing, and RViz monitoring
-- [ ] Hugging Face LeRobot SO-101 arm — imitation learning
-- [ ] NVIDIA Isaac Lab — reinforcement-learning locomotion
-- [ ] ROS2 Nav2 / SLAM
-- [ ] SmolVLA fine-tuning — stretch goal
+<details>
+<summary>🧩 How I use these tools</summary>
 
----
+- **Robotics:** ROS 2, RViz, Python/C++, Linux, Docker, simulation, diagnostics, and hardware/software integration.
+- **Web:** Astro, React, Next.js, TypeScript/JavaScript, HTML/CSS, Node.js, PHP, and WordPress.
+- **Experiments:** Swift/Core Motion, Three.js, local LLMs, n8n automation, and Python learning projects.
 
-## 🌱 Currently Learning
+</details>
 
-- Full-stack development with **Astro, Next.js, React, TypeScript, and Tailwind CSS**
-- ROS2, RViz, robot simulation, telemetry, and safety-oriented operator interfaces
-- Provider-neutral event pipelines and explainable analytics for AI-powered applications
-- Python programming and software engineering fundamentals through CPSC coursework
-- Local LLM workflows and multi-stage AI coding agents
-- Preparing for co-op and internship opportunities in software development, robotics, and embedded systems
+## 🧭 What I'm learning
 
----
+- ROS 2 controls, robot simulation, telemetry, and operator-facing diagnostics.
+- Full-stack development and reliable, testable application architecture.
+- Simulation-first robotics: imitation learning, reinforcement learning, then navigation.
+- Local AI workflows with clear human review and useful test coverage.
 
-## 🏅 Certifications & Community
+<details>
+<summary>🗺️ Robotics roadmap</summary>
 
-- 📘 **Introduction to Cybersecurity** — Cisco, July 2026
-- 🤖 **Introduction to Generative AI** — Google, July 2026
-- 🧠 **Introduction to Large Language Models** — Google, July 2026
-- 🛡️ **ISO/IEC 27001 Information Security Associate™** — SkillFront
-- 🗺️ **Get started with Google Maps Platform (Web)** — Google for Developers
-- 👥 **Learning Peer** at Mount Royal University — supported students studying Math 30-1/31
-- ⚙️ **Operations Manager** for a TED-Ed club — managed the club website and technical responsibilities while helping plan the in-person event
-- 🤝 Active volunteer with **Ismaili Volunteers**
+- [x] Build an obstacle-avoiding rover with sonar sensing and motor control.
+- [x] Contribute ROS 2 diagnostics and simulated movement tooling to robot projects.
+- [ ] Explore imitation learning with the Hugging Face LeRobot SO-101 arm.
+- [ ] Try reinforcement-learning locomotion in NVIDIA Isaac Lab.
+- [ ] Learn ROS 2 Nav2 and SLAM.
+- [ ] Investigate SmolVLA fine-tuning.
 
----
+</details>
 
-## 📊 GitHub Stats
+## 🏅 Certifications &amp; community
+
+- **Cisco:** Introduction to Cybersecurity.
+- **Google:** Introduction to Generative AI; Introduction to Large Language Models; Get started with Google Maps Platform (Web).
+- **SkillFront:** ISO/IEC 27001 Information Security Associate.
+- **Mount Royal University:** Learning Peer supporting Math 30-1/31 students.
+- **TED-Ed Club:** Operations Manager, including website and event responsibilities.
+- **Community:** Active volunteer with Ismaili Volunteers.
+
+## 📊 GitHub at a glance
 
 <div align="center">
 
-![Aj's GitHub stats](https://github-stats-extended.vercel.app/api?username=aj0khi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=aj0khi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<a href="https://github.com/aj0khi">
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=aj0khi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ajmal's GitHub statistics" />
+</a>
+<a href="https://github.com/aj0khi?tab=repositories">
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aj0khi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most-used languages across Ajmal's public repositories" />
+</a>
+
+<br />
+
+<a href="https://github.com/aj0khi">
+  <img src="https://streak-stats.demolab.com?user=aj0khi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+<br />
+
+<sub>These cards are generated by community services and can occasionally take a break. Explore my <a href="https://github.com/aj0khi?tab=repositories">repositories</a> for the source of truth.</sub>
 
 </div>
 
----
+## 📫 Say hello
 
-## 📫 Connect With Me
+Interested in robotics, software, or building something together? [Send me a note](mailto:khidri.ajmal@gmail.com).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-khidri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://ajmalkhidri.com/)
-[![Website](https://img.shields.io/badge/HVAC_Express-F7A41D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://calgaryhvacexpress.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aj0khi)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajmal-khidri/">LinkedIn</a> ·
+  <a href="https://ajmalkhidri.com">Portfolio</a> ·
+  <a href="https://github.com/aj0khi">GitHub</a> ·
+  <a href="https://calgaryhvacexpress.ca">HVAC Express</a>
+</p>
 
 <div align="center">
 
-⚡ *Fun fact: when I'm not writing code, I'm probably hiking a trail in the Canadian Rockies.*
+⚡ *Outside of code, I’m probably hiking somewhere in the Canadian Rockies.*
 
 </div>

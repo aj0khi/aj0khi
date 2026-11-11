@@ -1,0 +1,52 @@
+name: Refresh repository galaxy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/galaxy.py
+      - tests/test_galaxy.py
+      - .github/workflows/galaxy.yml
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repository-galaxy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test galaxy generator
+        run: python -m unittest discover -s tests -v
+
+      - name: Generate the latest repository galaxy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/galaxy.py
+
+      - name: Commit updated galaxy
+        run: |
+          if git diff --quiet -- assets/galaxy.svg; then
+            echo "Galaxy is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/galaxy.svg
+          git commit -m "Update repository galaxy"
+          git push
